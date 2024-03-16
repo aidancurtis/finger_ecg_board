@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ecg_component_library")(type "KiCad")(uri "/Users/aidancurtis/Documents/odame_lab/finger_ecg_board/hardware/ecg_board/ecg_component_library.pretty")(options "")(descr ""))
+)
