@@ -1,0 +1,5 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"D3","LED","LED_0603_1608Metric",137.462500,-67.250000,180.000000,bottom
+"E1","~","Finger_Electrode",157.300000,-97.100000,180.000000,bottom
+"E2","~","Finger_Electrode",107.200000,-97.100000,180.000000,bottom
+"E3","~","Finger_Electrode",184.200000,-97.100000,180.000000,bottom
