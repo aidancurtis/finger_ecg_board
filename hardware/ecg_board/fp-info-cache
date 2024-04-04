@@ -1,4 +1,4 @@
-23048620796069319
+23052044804655256
 AD8232
 LFCSP_20
 
@@ -53661,6 +53661,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DebugPad
+DebugPad
+
+
+0
+1
+1
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -62243,6 +62250,13 @@ solder jumper open
 0
 5
 3
+KPTF-1616RGBC-13
+LED_KPTF-1616RGBC-13
+
+
+0
+4
+4
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
